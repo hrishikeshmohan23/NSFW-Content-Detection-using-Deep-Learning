@@ -1,0 +1,2 @@
+# NSFW-Content-Detection-using-Deep-Learning
+As Internet is growing quickly, pornography, which is often printed into a small quantity of publication in the past, now has become one of the most highly shared information over internet. However, pornography maybe harmful to children, and may affect the efficiency of workers. Our Project aims to detect Not Suitable For Work media. The proposed model is based on Virtual Geometry Group or VGG which is a deep learning model which returns a probability to indicate explicitness in the media content
